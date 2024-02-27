@@ -14,7 +14,7 @@ public class CookieDemo {
 	void cookie()
 	{
 	  given()
-	  
+	
 	  .when()
 	    .get("https://www.google.com/")
 	  
